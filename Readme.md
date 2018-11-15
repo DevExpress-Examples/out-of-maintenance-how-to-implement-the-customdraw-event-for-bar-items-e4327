@@ -1,3 +1,12 @@
+<!-- default file list -->
+*Files to look at*:
+
+* [CustomBarAndDockingController.cs](./CS/CustomBarAndDockingController/CustomBarAndDockingController.cs) (VB: [CustomBarAndDockingController.vb](./VB/CustomBarAndDockingController/CustomBarAndDockingController.vb))
+* [CustomBarPainter.cs](./CS/CustomBarAndDockingController/CustomBarPainter.cs) (VB: [CustomBarPainter.vb](./VB/CustomBarAndDockingController/CustomBarPainter.vb))
+* [CustomDrawLinkArgs.cs](./CS/CustomBarAndDockingController/CustomDrawLinkArgs.cs) (VB: [CustomDrawLinkArgs.vb](./VB/CustomBarAndDockingController/CustomDrawLinkArgs.vb))
+* [CustomSkinBarManagerPaintStyle.cs](./CS/CustomBarAndDockingController/CustomSkinBarManagerPaintStyle.cs) (VB: [CustomSkinBarManagerPaintStyle.vb](./VB/CustomBarAndDockingController/CustomSkinBarManagerPaintStyle.vb))
+* **[Form1.cs](./CS/Form1.cs) (VB: [Form1.vb](./VB/Form1.vb))**
+<!-- default file list end -->
 # How to implement the CustomDraw event for bar items
 
 
